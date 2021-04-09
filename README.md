@@ -12,7 +12,7 @@ Create a new Workers project using Wrangler. This project will respond to two ki
 To begin, you should define an array of links. **The links should be a JavaScript array, with a number of link objects, each with a name and URL string.** See the below example for one of these link objects:
 
 ```json
-{ "name": "Link Name", "url": "https://linkurl" }
+{ "name": "Link Name.....", "url": "https://linkurl" }
 ```
 
 You should define at least three link objects inside of your array.
